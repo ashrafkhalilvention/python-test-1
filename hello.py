@@ -22,3 +22,6 @@ print(greeter.greet())
 print(greeter.greet("Hi"))
 print(greeter.farewell())
 print(f"Name length: {greeter.name_length}")
+
+
+print("babab")
